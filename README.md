@@ -1,2 +1,2 @@
 # UnturnedStrikeWiki
-Wiki of UnturnedStrike
+See wiki [here](https://github.com/UnturnedStrike/UnturnedStrikeWiki/wiki)
